@@ -20,7 +20,6 @@ public class Anagrams {
 
 			for(int i = 0; i < firstCharArray.length; i++)  {
 				int charInt = firstCharArray[i];
-				System.out.println(charInt);
 				charsFound[charInt]++;
 			}
 			
