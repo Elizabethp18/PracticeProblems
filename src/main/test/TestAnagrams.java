@@ -1,9 +1,7 @@
 package main.test;
 
-import junit.framework.Assert;
-
 import main.java.Anagrams;
-
+import org.junit.Assert;
 import org.junit.Test;
 
 public class TestAnagrams {
